@@ -3,8 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <AssemblyName>дз 1</AssemblyName>
-    <RootNamespace>дз 1</RootNamespace>
+    <RootNamespace>дз_3</RootNamespace>
   </PropertyGroup>
 
 </Project>
